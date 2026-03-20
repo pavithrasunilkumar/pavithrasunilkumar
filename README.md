@@ -1,7 +1,8 @@
 
 
- I'm **Pavithra Sunilkumar** 
-A **Computer Science (AI & Data Science)** student who enjoys thinking deeply, solving problems, and building things that make sense in the real world.
+ I'm **Pavithra Sunilkumar**,
+ 
+A **Computer Science (AI & Data Science) Engineering** student who enjoys thinking deeply, solving problems, and building things that make sense in the real world.
 
 *  I’m naturally drawn to **analytical thinking and problem-solving**, and I enjoy breaking complex problems into simple, logical solutions
 *  I like working at the intersection of **AI and software development**, where ideas can turn into intelligent systems
