@@ -3,9 +3,9 @@ I’m Pavithra Sunilkumar,
 A Computer Science (AI & Data Science) Engineering student who doesn’t just write code—I build things that people actually enjoy using.
 
 I like taking real-world problems and turning them into creative, interactive solutions that feel simple on the surface but are powered by strong logic underneath
-For me, coding isn’t just about functionality—it’s about making something engaging, intuitive, and a little addictive
+For me, coding isn’t just about functionality,it’s about making something engaging, intuitive, and a little addictive
 
-I enjoy working where creativity meets technology—especially in AI, Machine Learning, and full-stack development
+I enjoy working where creativity meets technology especially in AI, Machine Learning, and full-stack development
 Strong in Data Structures & Algorithms (DSA) and Object-Oriented Programming (OOP), so I focus on writing code that’s not just working, but clean, efficient, and scalable
 I build data-driven and intelligent systems, from recommendation engines to platforms that learn from user behavior
 
