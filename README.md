@@ -1,6 +1,6 @@
-⚡ Turning Ideas → Intelligent Products
-🎓 CS (AI & DS) @ MIT-WPU
-🧠 Machine Learning · AI · Computer Vision · Full-Stack Development
+⚡ Turning Ideas → Intelligent Products <br>
+🎓 CS (AI & DS) @ MIT-WPU <br>
+🧠 Machine Learning · AI · Computer Vision · Full-Stack Development <br>
 🚀 Building Scalable AI Products | Intrivue · InHire · PathAegis
 
 I’m Pavithra Sunilkumar,
