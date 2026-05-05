@@ -1,8 +1,3 @@
-⚡ Turning Ideas → Intelligent Products <br>
-🎓 CS (AI & DS) @ MIT-WPU <br>
-🧠 Machine Learning · AI · Computer Vision · Full-Stack Development <br>
-🚀 Building Scalable AI Products | Intrivue · InHire · PathAegis
-
 I’m Pavithra Sunilkumar,
 A Computer Science (AI & Data Science) Engineering student who doesn’t just write code—I build things that people actually enjoy using.
 
