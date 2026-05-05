@@ -1,5 +1,10 @@
-I’m Pavithra Sunilkumar,
 
+⚡ Turning Ideas → Intelligent Products
+🎓 CS (AI & DS) @ MIT-WPU
+🧠 Machine Learning · AI · Computer Vision · Full-Stack Development
+🚀 Building Scalable AI Products | Intrivue · InHire · PathAegis 
+
+I’m Pavithra Sunilkumar,
 A Computer Science (AI & Data Science) Engineering student who doesn’t just write code—I build things that people actually enjoy using.
 
 I like taking real-world problems and turning them into creative, interactive solutions that feel simple on the surface but are powered by strong logic underneath
@@ -27,8 +32,7 @@ Always learning, always building, and always trying to make things a little more
 ![](https://nirzak-streak-stats.vercel.app/?user=pavithrasunilkumar&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=pavithrasunilkumar&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-### ✍️ A curious mind quote for the day
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
 
 ---
 [![](https://visitcount.itsvg.in/api?id=pavithrasunilkumar&icon=0&color=12)](https://visitcount.itsvg.in)
