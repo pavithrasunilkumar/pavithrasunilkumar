@@ -1,4 +1,5 @@
 I’m Pavithra Sunilkumar,
+
 A Computer Science (AI & Data Science) Engineering student who doesn’t just write code—I build things that people actually enjoy using.
 
 I like taking real-world problems and turning them into creative, interactive solutions that feel simple on the surface but are powered by strong logic underneath
