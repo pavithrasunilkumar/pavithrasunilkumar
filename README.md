@@ -12,7 +12,7 @@ I build data-driven and intelligent systems, from recommendation engines to plat
 I’m someone who likes to break things down, understand them deeply, and then rebuild them in a smarter and more creative way
 You’ll often find me experimenting with ideas, improving existing systems, or building something just because “this could be cooler”
 
-I believe the best tech is the one that people don’t just use—but want to keep coming back to
+I believe the best tech is the one that people don’t just use but want to keep coming back to
 
 Always learning, always building, and always trying to make things a little more creative than before 🚀
 
