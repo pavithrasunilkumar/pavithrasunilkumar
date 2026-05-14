@@ -54,7 +54,33 @@ Always learning, always building, and always trying to make things a little more
 ![](https://nirzak-streak-stats.vercel.app/?user=pavithrasunilkumar&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=pavithrasunilkumar&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+## 📊 GitHub Stats
 
+<div align="center">
+
+<img width="390" src="https://github-readme-stats.vercel.app/api?username=pavithrasunilkumar&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&rank_icon=github" />
+
+<img width="390" src="https://github-readme-streak-stats.herokuapp.com/?user=pavithrasunilkumar&theme=tokyonight" />
+
+<img width="325" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pavithrasunilkumar&layout=compact&theme=tokyonight" />
+
+<img width="390" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=pavithrasunilkumar&theme=tokyonight" />
+
+<img width="390" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=pavithrasunilkumar&theme=tokyonight&utcOffset=5.5" />
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=pavithrasunilkumar&theme=tokyo-night" />
+
+<img src="https://github-profile-trophy.vercel.app/?username=pavithrasunilkumar&theme=tokyonight&row=1&column=6" />
+
+<p>
+<img src="https://komarev.com/ghpvc/?username=pavithrasunilkumar&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
+
+<img src="https://img.shields.io/github/followers/pavithrasunilkumar?style=for-the-badge" />
+
+<img src="https://img.shields.io/github/stars/pavithrasunilkumar?style=for-the-badge" />
+</p>
+
+</div>
 ## ⚡ GitHub Stats
 
 <div align="center">
@@ -64,8 +90,7 @@ Always learning, always building, and always trying to make things a little more
 <img width="390" src="https://github-readme-streak-stats.herokuapp.com/?user=pavithrasunilkumar&theme=tokyonight" />
 
 <img width="325" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pavithrasunilkumar&layout=compact&theme=tokyonight" />
-[![](https://visitcount.itsvg.in/api?id=pavithrasunilkumar&icon=0&color=12)](https://visitcount.itsvg.in)
-</div>
+
 
 ---
 ---
