@@ -57,11 +57,8 @@ Always learning, always building, and always trying to make things a little more
 ## GitHub Stats
 
 <div align="center">
-
 <img width="390" src="https://github-readme-stats.vercel.app/api?username=pavithrasunilkumar&show_icons=true&theme=tokyonight&count_private=true&rank_icon=github" />
-
 <img width="390" src="https://github-readme-streak-stats.herokuapp.com/?user=pavithrasunilkumar&theme=tokyonight" />
-
 <img width="325" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pavithrasunilkumar&layout=compact&theme=tokyonight" />
 
 
