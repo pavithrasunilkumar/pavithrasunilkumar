@@ -1,4 +1,14 @@
-I’m Pavithra Sunilkumar,
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=30&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&repeat=false&lines=Hi+👋,+I'm+Pavithra+Sunilkumar" />
+</p>
+
+<p align="center">
+  <b>AI Engineer • Full Stack Developer • ML Enthusiast • Cloud Developer</b>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Engineering+Intelligent+Experiences;Building+the+Future+with+AI+%26+Code;From+Ideas+to+Production;Always+Learning.+Always+Building." />
+</p>
 
 A Computer Science (AI & Data Science) Engineering student who doesn’t just write code—I build things that people actually enjoy using.
 
@@ -56,21 +66,11 @@ Always learning, always building, and always trying to make things a little more
 
 ## GitHub Stats
    
-
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=pavithrasunilkumar&theme=tokyonight&hide_border=true" />
 </p>
 
- <h1 align="center">Hi 👋, I'm Pavithra</h1>
-
-<h3 align="center">
-AI Engineer • Full Stack Developer • Computer Vision Enthusiast
-</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Building+AI+Products;Computer+Vision+%2B+Generative+AI;Creating+Swipe-Based+AI+Platforms;Turning+Ideas+into+Production+Systems" />
-</p> 
-
----
----
-
+  <img src="https://komarev.com/ghpvc/?username=pavithrasunilkumar&label=PROFILE+VIEWS&color=blueviolet&style=for-the-badge" />
+</p>
