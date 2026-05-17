@@ -56,23 +56,11 @@ Always learning, always building, and always trying to make things a little more
 
 ## GitHub Stats
    
-## 📈 Contribution Graph
+## 🔥 GitHub Streak
 
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=pavithrasunilkumar&theme=tokyo-night&hide_border=true" />
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=pavithrasunilkumar&theme=tokyonight&no-frame=true&margin-w=10&row=1" />
-
-</div>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=pavithrasunilkumar&theme=tokyonight&hide_border=true" />
+</p>
 
   
 
