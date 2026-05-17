@@ -56,13 +56,20 @@ Always learning, always building, and always trying to make things a little more
 
 ## GitHub Stats
    
-## 🔥 GitHub Streak
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=pavithrasunilkumar&theme=tokyonight&hide_border=true" />
 </p>
 
-  
+ <h1 align="center">Hi 👋, I'm Pavithra</h1>
+
+<h3 align="center">
+AI Engineer • Full Stack Developer • Computer Vision Enthusiast
+</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Building+AI+Products;Computer+Vision+%2B+Generative+AI;Creating+Swipe-Based+AI+Platforms;Turning+Ideas+into+Production+Systems" />
+</p> 
 
 ---
 ---
