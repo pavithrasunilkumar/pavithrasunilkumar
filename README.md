@@ -10,7 +10,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Engineering+Intelligent+Experiences;Building+the+Future+with+AI+%26+Code;From+Ideas+to+Production;Always+Learning.+Always+Building." />
 </p>
 
-A Computer Science (AI & Data Science) Engineering student who doesn’t just write code—I build things that people actually enjoy using.
+A Computer Science (AI & Data Science) Engineering student who doesn’t just write code, I build things that people actually enjoy using.
 
 I like taking real-world problems and turning them into creative, interactive solutions that feel simple on the surface but are powered by strong logic underneath
 For me, coding isn’t just about functionality,it’s about making something engaging, intuitive, and a little addictive
