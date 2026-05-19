@@ -72,5 +72,5 @@ Always learning, always building, and always trying to make things a little more
 
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=pavithrasunilkumar&label=PROFILE+VIEWS&color=blueviolet&style=for-the-badge" />
+  <img src="https://komarev.com/ghpvc/?username=pavithrasunilkumar&label=PROFILE+VIEWS&color=blueviolet&style=for-the-badge" /> 
 </p>
