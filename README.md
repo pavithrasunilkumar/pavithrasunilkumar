@@ -25,97 +25,81 @@ A Computer Science (`AI & Data Science`) Engineering student who doesn't just wr
 For me, coding isn't just about functionality , it's about making something engaging, intuitive, and a little addictive. I enjoy working where creativity meets technology, especially in `AI`, `Machine Learning`, and `Full Stack` development.
 
 **`how i build`**
-Strong in `DSA` and `OOP`, so I focus on writing code that's not just working — but clean, efficient, and scalable. I build data-driven and intelligent systems, from `recommendation engines` to platforms that learn from user behavior.
+Strong in `DSA` and `OOP`, so I focus on writing code that's not just working , but clean, efficient, and scalable. I build data-driven and intelligent systems, from `recommendation engines` to platforms that learn from user behavior.
 
 **`my approach`**
 I like to break things down, understand them deeply, and rebuild them in a smarter, more creative way. You'll find me experimenting with ideas, improving existing systems, or building something just because *"this could be cooler."*
 
-> I believe the best tech is the one that people don't just use — but want to keep coming back to. 
+> I believe the best tech is the one that people don't just use , but want to keep coming back to. 
 
 ---
 ## 💻 Tech Stack:
-
-**AI / ML**
-&nbsp; ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![ScikitLearn](https://img.shields.io/badge/ScikitLearn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square)
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
-
-**Web / Full Stack**
-&nbsp; ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![NLP](https://img.shields.io/badge/NLP-111827?style=flat-square)
+![Computer Vision](https://img.shields.io/badge/Computer_Vision-1F2937?style=flat-square)
+![Generative AI](https://img.shields.io/badge/Generative_AI-374151?style=flat-square)
+![RAG](https://img.shields.io/badge/RAG-4B5563?style=flat-square)
+![Agentic AI](https://img.shields.io/badge/Agentic_AI-6B7280?style=flat-square)
+![YOLOv8](https://img.shields.io/badge/YOLOv8-111827?style=flat-square)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-
-**Infrastructure**
-&nbsp; ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=FF9900)
+![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-111827?style=flat-square)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=FF9900)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![CI/CD](https://img.shields.io/badge/CI/CD-0F172A?style=flat-square)
+![DSA](https://img.shields.io/badge/DSA-111827?style=flat-square)
+![OOP](https://img.shields.io/badge/OOP-1F2937?style=flat-square)
+![DBMS](https://img.shields.io/badge/DBMS-374151?style=flat-square)
+![OS](https://img.shields.io/badge/OS-4B5563?style=flat-square)
+![Computer Networks](https://img.shields.io/badge/CN-6B7280?style=flat-square)
+##  ✦ Featured Projects
+
+
+🎙️ **[IntriVue](https://github.com/pavithrasunilkumar/IntriVue)** `AI · NLP · LLMs`  [↗ live](https://intri-vue.vercel.app/login)  
+AI interview prep platform with a multi-model LLM pipeline, adaptive questioning, and NLP-powered feedback across 5 scoring dimensions.
 
 ---
 
-## Featured Projects
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-**[IntriVue](https://github.com/pavithrasunilkumar/IntriVue)** &nbsp; `AI · NLP · LLMs` &nbsp; [![Live](https://img.shields.io/badge/Live-38bdf8?style=flat-square&logo=vercel&logoColor=white)](https://intri-vue.vercel.app/login)
-
-AI interview prep platform with a multi-model LLM pipeline, adaptive question generation, and structured NLP-powered feedback across 5 scoring dimensions.
-
-</td>
-<td width="50%" valign="top">
-
-**[FinFlow](https://github.com/pavithrasunilkumar/FinFlow)** &nbsp; `Agentic AI · TypeScript`
-
-Autonomous AI CFO — multi-step financial reasoning, trend forecasting, and agentic decision-making without human-in-the-loop.
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-**[InHire](https://github.com/pavithrasunilkumar/InHire)** &nbsp; `Rec Engine · TypeScript` &nbsp; [![Live](https://img.shields.io/badge/Live-38bdf8?style=flat-square&logo=vercel&logoColor=white)](https://in-hire.vercel.app/login)
-
+💼 **[InHire](https://github.com/pavithrasunilkumar/InHire)** `Rec Engine · TypeScript`  [↗ live](https://in-hire.vercel.app/login)  
 Swipe-native job discovery with intelligent matching and a preference-learning recommendation engine. Tinder UX meets LinkedIn data.
 
-</td>
-<td width="50%" valign="top">
+---
 
-**[Maritime Sentinel](https://github.com/pavithrasunilkumar/Maritime-Sentinel)** &nbsp; `CV · Satellite AI`
-
-Satellite imagery analysis pipeline for vessel detection, AIS cross-referencing, and real-time coastal threat classification.
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-**[PathAegis](https://github.com/pavithrasunilkumar/PathAegis)** &nbsp; `YOLOv8 · Geo` &nbsp; [![Live](https://img.shields.io/badge/Live-38bdf8?style=flat-square&logo=vercel&logoColor=white)](https://path-aegis.vercel.app/)
-
-Real-time pothole detection via webcam with geo-tagged incident logging and urban road-health dashboards. Civic AI in action.
-
-</td>
-<td width="50%" valign="top">
-
-**[ClassWatch](https://github.com/pavithrasunilkumar/ClassWatch)** &nbsp; `CV · Privacy AI`
-
-Privacy-aware student attention analysis — real-time tracking with built-in face anonymization for ethical classroom deployment.
-
-</td>
-</tr>
-</table>
+💹 **[FinFlow](https://github.com/pavithrasunilkumar/FinFlow)** `Agentic AI · TypeScript`  
+Autonomous AI CFO — multi-step financial reasoning, trend forecasting, and agentic decision-making without human-in-the-loop.
 
 ---
 
+🛰️ **[Maritime Sentinel](https://github.com/pavithrasunilkumar/Maritime-Sentinel)** `CV · Satellite AI`  
+Satellite imagery analysis for vessel detection, AIS cross-referencing, and real-time coastal threat classification.
 
 ---
-## GitHub Stats
+
+🛣️ **[PathAegis](https://github.com/pavithrasunilkumar/PathAegis)** `YOLOv8 · Geo`  [↗ live](https://path-aegis.vercel.app/)  
+Real-time pothole detection via webcam with geo-tagged incident logging and urban road-health dashboards.
+
+---
+
+👁️ **[ClassWatch](https://github.com/pavithrasunilkumar/ClassWatch)** `CV · Privacy AI`  
+Real-time classroom attention analytics with privacy-preserving face anonymization.
+
+---
+##  📊GitHub Stats
    
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=pavithrasunilkumar&theme=tokyonight&hide_border=true" />
