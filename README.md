@@ -33,13 +33,18 @@ I like to break things down, understand them deeply, and rebuild them in a smart
 > I believe the best tech is the one that people don't just use , but want to keep coming back to. 
 
 ---
-##  Tech Stack
+## Tech Stack
+
 <table>
 <tr>
 <td valign="top"><sub><b>AI / ML</b></sub></td>
 <td>
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-111827?style=flat-square)
+![Deep Learning](https://img.shields.io/badge/Deep_Learning-1F2937?style=flat-square)
+![NLP](https://img.shields.io/badge/NLP-374151?style=flat-square)
+![Computer Vision](https://img.shields.io/badge/Computer_Vision-4B5563?style=flat-square)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
@@ -48,6 +53,7 @@ I like to break things down, understand them deeply, and rebuild them in a smart
 ![YOLOv8](https://img.shields.io/badge/YOLOv8-111827?style=flat-square)
 ![Generative AI](https://img.shields.io/badge/Generative_AI-0F172A?style=flat-square)
 ![RAG](https://img.shields.io/badge/RAG-1E293B?style=flat-square)
+![Agentic AI](https://img.shields.io/badge/Agentic_AI-334155?style=flat-square)
 
 </td>
 </tr>
@@ -93,8 +99,6 @@ I like to break things down, understand them deeply, and rebuild them in a smart
 </td>
 </tr>
 </table>
-
----
 
 ##  GitHub Stats
    
