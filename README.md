@@ -96,7 +96,7 @@ I like to break things down, understand them deeply, and rebuild them in a smart
 
 ---
 
-## ✨ Featured Projects
+##  Featured Projects
 
 <table>
 <tr>
