@@ -96,6 +96,21 @@ I like to break things down, understand them deeply, and rebuild them in a smart
 
 ---
 
+##  GitHub Stats
+   
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=pavithrasunilkumar&theme=tokyonight&hide_border=true" />
+</p>
+
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=pavithrasunilkumar&label=PROFILE+VIEWS&color=blueviolet&style=for-the-badge" /> 
+</p>
+
+
+
+---
+
 ##  Featured Projects
 
 <table>
@@ -198,22 +213,7 @@ Privacy-aware classroom attention analytics with real-time tracking and face ano
 </td>
 </tr>
 </table>
----
 
-##  GitHub Stats
-   
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=pavithrasunilkumar&theme=tokyonight&hide_border=true" />
-</p>
-
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=pavithrasunilkumar&label=PROFILE+VIEWS&color=blueviolet&style=for-the-badge" /> 
-</p>
-
-
-
----
 
 <div align="center">
 
