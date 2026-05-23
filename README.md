@@ -96,99 +96,108 @@ I like to break things down, understand them deeply, and rebuild them in a smart
 
 ---
 
-##  Featured Projects
-<table align="center">
+## ✨ Featured Projects
+
+<table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-<b>🎙️ IntriVue</b><br>
-<sub>LLMs · NLP · FastAPI · React</sub><br>
-AI interview platform with adaptive questioning and semantic evaluation.<br><br>
-
+<sub>
+<b>🎙️ IntriVue</b>
 <a href="https://github.com/pavithrasunilkumar/IntriVue">
-  <img src="https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/-181717?style=flat-square&logo=github&logoColor=white">
 </a>
-
 <a href="https://intri-vue.vercel.app/login">
-  <img src="https://img.shields.io/badge/Live-0F172A?style=flat-square&logo=vercel&logoColor=white">
+<img src="https://img.shields.io/badge/-000000?style=flat-square&logo=vercel&logoColor=white">
 </a>
+</sub><br>
+
+<sub>LLMs · NLP · PyTorch · FastAPI</sub><br>
+AI-powered interview platform leveraging LLMs and NLP for personalized mock interviews and semantic evaluation pipelines.
 
 </td>
 
-<td width="50%">
+<td width="50%" valign="top">
 
-<b>💼 InHire</b><br>
-<sub>ML · LangChain · React · Node</sub><br>
-Swipe-based AI job discovery with intelligent matching systems.<br><br>
-
+<sub>
+<b>💼 InHire</b>
 <a href="https://github.com/pavithrasunilkumar/InHire">
-  <img src="https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/-181717?style=flat-square&logo=github&logoColor=white">
 </a>
-
 <a href="https://in-hire.vercel.app/login">
-  <img src="https://img.shields.io/badge/Live-0F172A?style=flat-square&logo=vercel&logoColor=white">
+<img src="https://img.shields.io/badge/-000000?style=flat-square&logo=vercel&logoColor=white">
 </a>
+</sub><br>
+
+<sub>ML · LangChain · React · Node.js</sub><br>
+AI job discovery platform with behavioral recommendation models and NLP-based resume-job matching pipelines.
 
 </td>
 </tr>
 
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-<b>💹 FinFlow</b><br>
-<sub>Agentic AI · TypeScript</sub><br>
-AI-powered financial reasoning and forecasting workflows.<br><br>
-
+<sub>
+<b>💹 FinFlow</b>
 <a href="https://github.com/pavithrasunilkumar/FinFlow">
-  <img src="https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/-181717?style=flat-square&logo=github&logoColor=white">
 </a>
+</sub><br>
+
+<sub>Agentic AI · TypeScript · Analytics</sub><br>
+Autonomous AI CFO platform for financial reasoning, forecasting, and intelligent workflow automation.
 
 </td>
 
-<td width="50%">
+<td width="50%" valign="top">
 
-<b>🛰️ Maritime Sentinel</b><br>
-<sub>CV · Satellite AI</sub><br>
-Satellite intelligence for vessel detection and threat analysis.<br><br>
-
+<sub>
+<b>🛰️ Maritime Sentinel</b>
 <a href="https://github.com/pavithrasunilkumar/Maritime-Sentinel">
-  <img src="https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/-181717?style=flat-square&logo=github&logoColor=white">
 </a>
+</sub><br>
+
+<sub>Computer Vision · Satellite AI</sub><br>
+Satellite imagery intelligence system for vessel detection, AIS cross-referencing, and coastal threat analysis.
 
 </td>
 </tr>
 
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-<b>🛣️ PathAegis</b><br>
-<sub>YOLOv8 · OpenCV · Geo</sub><br>
-Real-time pothole detection with geo-tagged analytics.<br><br>
-
+<sub>
+<b>🛣️ PathAegis</b>
 <a href="https://github.com/pavithrasunilkumar/PathAegis">
-  <img src="https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/-181717?style=flat-square&logo=github&logoColor=white">
 </a>
-
 <a href="https://path-aegis.vercel.app/">
-  <img src="https://img.shields.io/badge/Live-0F172A?style=flat-square&logo=vercel&logoColor=white">
+<img src="https://img.shields.io/badge/-000000?style=flat-square&logo=vercel&logoColor=white">
 </a>
+</sub><br>
+
+<sub>YOLOv8 · OpenCV · Geo Analytics</sub><br>
+Real-time pothole detection system with geospatial analytics and live road-health monitoring dashboards.
 
 </td>
 
-<td width="50%">
+<td width="50%" valign="top">
 
-<b>👁️ ClassWatch</b><br>
-<sub>YOLOv8 · MediaPipe · Flask</sub><br>
-Privacy-aware classroom attention analytics system.<br><br>
-
+<sub>
+<b>👁️ ClassWatch</b>
 <a href="https://github.com/pavithrasunilkumar/ClassWatch">
-  <img src="https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/-181717?style=flat-square&logo=github&logoColor=white">
 </a>
+</sub><br>
+
+<sub>YOLOv8 · MediaPipe · Flask</sub><br>
+Privacy-aware classroom attention analytics with real-time tracking and face anonymization pipelines.
 
 </td>
 </tr>
 </table>
-
 ---
 
 ##  GitHub Stats
