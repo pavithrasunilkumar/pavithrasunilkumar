@@ -37,7 +37,7 @@ I like to break things down, understand them deeply, and rebuild them in a smart
 
 <table>
 <tr>
-<td valign="top"><sub><b>AI / ML</b></sub></td>
+<td width="140"><sub><b>AI / ML</b></sub></td>
 <td>
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -59,7 +59,7 @@ I like to break things down, understand them deeply, and rebuild them in a smart
 </tr>
 
 <tr>
-<td valign="top"><sub><b>Web / Backend</b></sub></td>
+<td width="140"><sub><b>Web / Backend</b></sub></td>
 <td>
 
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
@@ -73,7 +73,7 @@ I like to break things down, understand them deeply, and rebuild them in a smart
 </tr>
 
 <tr>
-<td valign="top"><sub><b>Infrastructure</b></sub></td>
+<td width="140"><sub><b>Infrastructure</b></sub></td>
 <td>
 
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=FF9900)
@@ -87,7 +87,7 @@ I like to break things down, understand them deeply, and rebuild them in a smart
 </tr>
 
 <tr>
-<td valign="top"><sub><b>Core CS</b></sub></td>
+<td width="140"><sub><b>Core CS</b></sub></td>
 <td>
 
 ![DSA](https://img.shields.io/badge/DSA-111827?style=flat-square)
