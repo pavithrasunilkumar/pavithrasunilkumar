@@ -67,6 +67,7 @@ I like to break things down, understand them deeply, and rebuild them in a smart
 ![DBMS](https://img.shields.io/badge/DBMS-374151?style=flat-square)
 ![OS](https://img.shields.io/badge/OS-4B5563?style=flat-square)
 ![Computer Networks](https://img.shields.io/badge/CN-6B7280?style=flat-square)
+---
 ##  ✦ Featured Projects
 
 
