@@ -37,6 +37,8 @@ I enjoy breaking systems down, understanding them deeply, and creating smarter, 
 > I believe the best tech is the one people don’t just use — but keep coming back to.
 
 ---
+##  Tech Stack
+
 <tr>
 <td width="140"><sub><b>AI / ML</b></sub></td>
 <td>
