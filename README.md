@@ -34,7 +34,7 @@ I enjoy creating intelligent systems like <kbd>recommendation engines</kbd> and 
 I enjoy breaking systems down, understanding them deeply, and creating smarter, more creative solutions from scratch.
 
 
-> I believe the best tech is the one people don’t just use — but keep coming back to.
+> I believe the best tech is the one people don’t just use , but keep coming back to.
 
 ---
 ##  Tech Stack
