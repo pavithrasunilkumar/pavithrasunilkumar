@@ -39,24 +39,25 @@ I enjoy breaking systems down, understanding them deeply, and creating smarter, 
 ---
 ##  Tech Stack
 
+<table>
 <tr>
 <td width="140"><sub><b>AI / ML</b></sub></td>
 <td>
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Machine Learning](https://img.shields.io/badge/Machine_Learning-111827?style=flat-square)
-![Deep Learning](https://img.shields.io/badge/Deep_Learning-1F2937?style=flat-square)
-![NLP](https://img.shields.io/badge/NLP-374151?style=flat-square)
-![Computer Vision](https://img.shields.io/badge/Computer_Vision-4B5563?style=flat-square)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
-![YOLOv8](https://img.shields.io/badge/YOLOv8-111827?style=flat-square)
-![Generative AI](https://img.shields.io/badge/Generative_AI-0F172A?style=flat-square)
-![RAG](https://img.shields.io/badge/RAG-1E293B?style=flat-square)
-![Agentic AI](https://img.shields.io/badge/Agentic_AI-334155?style=flat-square)
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Machine_Learning-111827?style=flat-square"/>
+<img src="https://img.shields.io/badge/Deep_Learning-1F2937?style=flat-square"/>
+<img src="https://img.shields.io/badge/NLP-374151?style=flat-square"/>
+<img src="https://img.shields.io/badge/Computer_Vision-4B5563?style=flat-square"/>
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white"/>
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white"/>
+<img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black"/>
+<img src="https://img.shields.io/badge/YOLOv8-111827?style=flat-square"/>
+<img src="https://img.shields.io/badge/Generative_AI-0F172A?style=flat-square"/>
+<img src="https://img.shields.io/badge/RAG-1E293B?style=flat-square"/>
+<img src="https://img.shields.io/badge/Agentic_AI-334155?style=flat-square"/>
 
 </td>
 </tr>
@@ -65,12 +66,12 @@ I enjoy breaking systems down, understanding them deeply, and creating smarter, 
 <td width="140"><sub><b>Web / Backend</b></sub></td>
 <td>
 
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-111827?style=flat-square)
+<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/REST_API-111827?style=flat-square"/>
 
 </td>
 </tr>
@@ -79,12 +80,12 @@ I enjoy breaking systems down, understanding them deeply, and creating smarter, 
 <td width="140"><sub><b>Infrastructure</b></sub></td>
 <td>
 
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=FF9900)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![CI/CD](https://img.shields.io/badge/CI%2FCD-0F172A?style=flat-square)
+<img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=FF9900"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white"/>
+<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/>
+<img src="https://img.shields.io/badge/CI/CD-0F172A?style=flat-square"/>
 
 </td>
 </tr>
@@ -93,11 +94,11 @@ I enjoy breaking systems down, understanding them deeply, and creating smarter, 
 <td width="140"><sub><b>Core CS</b></sub></td>
 <td>
 
-![DSA](https://img.shields.io/badge/DSA-111827?style=flat-square)
-![OOP](https://img.shields.io/badge/OOP-1F2937?style=flat-square)
-![DBMS](https://img.shields.io/badge/DBMS-374151?style=flat-square)
-![OS](https://img.shields.io/badge/Operating_Systems-4B5563?style=flat-square)
-![CN](https://img.shields.io/badge/Computer_Networks-6B7280?style=flat-square)
+<img src="https://img.shields.io/badge/DSA-111827?style=flat-square"/>
+<img src="https://img.shields.io/badge/OOP-1F2937?style=flat-square"/>
+<img src="https://img.shields.io/badge/DBMS-374151?style=flat-square"/>
+<img src="https://img.shields.io/badge/Operating_Systems-4B5563?style=flat-square"/>
+<img src="https://img.shields.io/badge/Computer_Networks-6B7280?style=flat-square"/>
 
 </td>
 </tr>
