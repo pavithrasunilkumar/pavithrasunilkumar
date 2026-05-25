@@ -17,27 +17,28 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/pavithra-sunilkumar68) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:pavithrasunilk68@gmail.com)
 
 </div>
+**`About me`**
 
-**`About me :`**
 A Computer Science (`AI & Data Science`) Engineering student passionate about building creative, user-focused solutions powered by strong logic and clean design.
 
-**`what drives me :`**
+**`what drives me`**
+
 I enjoy working where `AI`, `Machine Learning`, and `Full Stack Development` come together with strong `DSA` and `OOP` principles to create interactive, scalable, and intuitive user experiences.
 
-**`how i build :`**
+**`how i build`**
+
 I focus on writing clean, scalable, and efficient code that balances performance with simplicity.
 
-**`what i build :`**
+**`what i build`**
+
 I enjoy creating intelligent systems like `recommendation engines` and behavior-driven platforms that learn from user interaction.
 
-**`my approach :`**
+**`my approach`**
+
 I enjoy breaking systems down, understanding them deeply, and creating smarter, more creative solutions from scratch.
 
 > I believe the best tech is the one people don’t just use — but keep coming back to.
 ---
-## Tech Stack
-
-<table>
 <tr>
 <td width="140"><sub><b>AI / ML</b></sub></td>
 <td>
