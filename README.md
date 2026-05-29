@@ -24,11 +24,11 @@ A Computer Science <kbd>AI & Data Science</kbd> Engineering student passionate a
 **`what drives me`**  
 I enjoy working where <kbd>AI</kbd>, <kbd>Machine Learning</kbd>, and <kbd>Full Stack Development</kbd> come together with strong <kbd>DSA</kbd> and <kbd>OOP</kbd> principles to create interactive, scalable, and intuitive user experiences.
 
-**`how i build`**  
-I focus on writing clean, scalable, and efficient code that balances performance with simplicity.
-
 **`what i build`**  
 I enjoy creating intelligent systems like <kbd>recommendation engines</kbd> and <kbd>behavior-driven platforms</kbd> that learn from user interaction.
+
+**`how i build`**  
+I focus on writing clean, scalable, and efficient code that balances performance with simplicity.
 
 **`my approach`**  
 I enjoy breaking systems down, understanding them deeply, and creating smarter, more creative solutions from scratch.
