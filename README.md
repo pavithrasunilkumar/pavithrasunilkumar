@@ -7,9 +7,8 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Engineering+Intelligent+Experiences;Building+the+Future+with+AI+%26+Code;From+Ideas+to+Production;Always+Learning.+Always+Building." />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=I+Believe+Curiosity+is+Where+Every+Good+Product+Starts;Turning+Ideas+into+Intelligent+Experiences;Building+AI-Powered+Products+That+Create+Impact;Learning,+Building,+and+Growing+Without+Limits;The+Curiosity+May+Start+the+Journey+—+The+Impact+Will+Never+Stop." />
 </p>
-
 <div align="center">
 
 ---
