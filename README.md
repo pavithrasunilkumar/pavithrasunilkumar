@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <b>AI Engineer • Full Stack Developer • ML Enthusiast • Cloud Developer</b>
+  <b>AI Engineer • Full Stack Developer • Data analyst • Cloud Developer</b>
 </p>
 
 <p align="center">
@@ -21,7 +21,7 @@
 A Computer Science <kbd>AI & Data Science</kbd> Engineering student passionate about building creative, user-focused solutions powered by strong logic and clean design.
 
 **`what drives me`**  
-I enjoy working where <kbd>AI</kbd>, <kbd>Machine Learning</kbd>, and <kbd>Full Stack Development</kbd> come together with strong <kbd>DSA</kbd> and <kbd>OOP</kbd> principles to create interactive, scalable, and intuitive user experiences.
+I enjoy working where <kbd>AI</kbd>,  <kbd>Data Science</kbd> , <kbd>Machine Learning</kbd>, and <kbd>Full Stack Development</kbd> come together with strong <kbd>DSA</kbd> and <kbd>OOP</kbd> principles to create interactive, scalable, and intuitive user experiences.
 
 **`what i build`**  
 I enjoy creating intelligent systems like <kbd>recommendation engines</kbd> and <kbd>behavior-driven platforms</kbd> that learn from user interaction.
