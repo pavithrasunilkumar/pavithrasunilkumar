@@ -207,15 +207,7 @@ Real-time pothole detection system with geospatial analytics and live road-healt
 
 <td width="50%" valign="top">
 
-<sub>
-<b>👁️ ClassWatch</b>
-<a href="https://github.com/pavithrasunilkumar/ClassWatch">
-<img src="https://img.shields.io/badge/-181717?style=flat-square&logo=github&logoColor=white">
-</a>
-</sub><br>
 
-<sub>YOLOv8 · MediaPipe · Flask</sub><br>
-Privacy-aware classroom attention analytics with real-time tracking and face anonymization pipelines.
 
 </td>
 </tr>
