@@ -76,7 +76,7 @@ I enjoy breaking systems down, understanding them deeply, and creating smarter, 
 </tr>
 
 <tr>
-<td width="140"><sub><b>Data Science & Analytics</b></sub></td>
+<td width="140"><sub><b>Data Science / Analytics</b></sub></td>
 <td>
 
 <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
