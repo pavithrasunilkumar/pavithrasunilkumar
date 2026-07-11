@@ -214,6 +214,49 @@ Real-time pothole detection system with geospatial analytics and live road-healt
 </table>
 
 
+<h2><sub>Data Analytics & Visualization</sub></h2>
+
+<table>
+<tr>
+
+<td width="50%" valign="top">
+
+<sub>
+<b>🐦 BNHS Bird Migration Analysis</b>
+<a href="https://github.com/pavithrasunilkumar/BNHS-Bird-Migration-Analysis">
+<img src="https://img.shields.io/badge/-181717?style=flat-square&logo=github&logoColor=white">
+</a>
+</sub><br>
+
+<sub>Python · Scikit-learn · Time Series · Climate Analytics</sub><br>
+
+Analyzed 11 years of ecological data to model bird migration patterns using feature engineering, regression models, and climate-driven insights.
+
+</td>
+
+<td width="50%" valign="top">
+
+<sub>
+<b>🚀 MISSION ISRO 360</b>
+<a href="https://github.com/pavithrasunilkumar/MissionISRO360">
+<img src="https://img.shields.io/badge/-181717?style=flat-square&logo=github&logoColor=white">
+</a>
+<a href="https://mission-isro360.vercel.app">
+<img src="https://img.shields.io/badge/-000000?style=flat-square&logo=vercel&logoColor=white">
+</a>
+</sub><br>
+
+<sub>React · Python · Visualization · ML</sub><br>
+
+Interactive analytics platform comparing ISRO with the global space ecosystem through visualizations, dashboards, and machine learning.
+
+</td>
+
+</tr>
+</table>
+
+---
+
 <div align="center">
 
 *always learning · always building · always making it a little cooler* 🚀
