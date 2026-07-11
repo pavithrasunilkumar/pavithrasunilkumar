@@ -76,6 +76,27 @@ I enjoy breaking systems down, understanding them deeply, and creating smarter, 
 </tr>
 
 <tr>
+<td width="140"><sub><b>Data Science & Analytics</b></sub></td>
+<td>
+
+<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white"/>
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black"/>
+<img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white"/>
+<img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white"/>
+<img src="https://img.shields.io/badge/EDA-111827?style=flat-square"/>
+<img src="https://img.shields.io/badge/Data_Visualization-1F2937?style=flat-square"/>
+<img src="https://img.shields.io/badge/Statistics-374151?style=flat-square"/>
+<img src="https://img.shields.io/badge/Feature_Engineering-4B5563?style=flat-square"/>
+<img src="https://img.shields.io/badge/XGBoost-EC4D37?style=flat-square"/>
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square"/>
+<img src="https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white"/>
+
+</td>
+</tr>
+
+<tr>
 <td width="140"><sub><b>Infrastructure</b></sub></td>
 <td>
 
