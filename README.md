@@ -274,6 +274,39 @@ Interactive analytics platform comparing ISRO with the global space ecosystem th
 </td>
 
 </tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+<sub>
+<b>📊 DataPilot</b>
+<a href="https://github.com/pavithrasunilkumar/DataPilot">
+<img src="https://img.shields.io/badge/-181717?style=flat-square&logo=github&logoColor=white">
+</a>
+</sub><br>
+
+<sub>React · FastAPI · Agentic AI · RAG</sub><br>
+
+AI-powered full-stack analytics platform that transforms spreadsheets into complete data pipelines with automated cleaning, preprocessing, EDA, interactive dashboards, AI-generated reports, and a RAG-powered assistant that answers business questions in simple language using agentic workflows.
+
+
+<td width="50%" valign="top">
+
+<sub>
+<b>🛡️ ExamShield Analytics</b>
+<a href="https://github.com/pavithrasunilkumar/ExamSheild-Analytics">
+<img src="https://img.shields.io/badge/-181717?style=flat-square&logo=github&logoColor=white">
+</a>
+</sub><br>
+
+<sub>Python · SQL · Power BI · Predictive Analytics</sub><br>
+
+Educational analytics platform that transforms examination data into interactive dashboards, performance trends, student insights, and predictive reports.
+
+</td>
+
+</tr>
 </table>
 
 ---
