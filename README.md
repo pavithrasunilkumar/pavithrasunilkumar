@@ -1,7 +1,7 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=30&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&repeat=false&lines=Hi+👋,+I'm+Pavithra+Sunilkumar" />
 </p>
-
+ 
 <p align="center">
   <b>AI Engineer • Full Stack Developer • Data analyst • Cloud Developer</b>
 </p>
