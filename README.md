@@ -3,7 +3,7 @@
 </p>
  
 <p align="center">
-  <b>AI Engineer • Full Stack Developer • Data analyst • Cloud Developer</b>
+  <b>AI/ML Engineer • Full Stack Developer • Data enthusiast</b>
 </p>
 
 <p align="center">
