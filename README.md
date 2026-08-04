@@ -126,9 +126,6 @@ I enjoy breaking systems down, understanding them deeply, and creating smarter, 
 
 ##  GitHub Stats
    
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=pavithrasunilkumar&theme=tokyonight&hide_border=true" />
-</p>
 
 
 <p align="center">
