@@ -32,7 +32,7 @@ I enjoy exploring AI, Data Science, Machine Learning, and Full Stack Development
 **`what i build`**
 <br>
 Not just features. Solutions.
-I build intelligent, user-focused products — from recommendation engines to behavior-driven platforms — that use data, AI, and interaction to become smarter with every use.
+I build intelligent, user-focused products  from recommendation engines to behavior-driven platforms , that use data, AI, and interaction to become smarter with every use.
 
 **`how i build`**
 <br>
@@ -42,7 +42,7 @@ Then I bring together clean code, solid engineering, and thoughtful design to ma
 **`my approach`**
 <br>
 I start with a problem, question the obvious solution, break the complexity down, and build from there.
-Because sometimes the best product isn't the one with the most technology — it's the one that makes the problem disappear.
+Because sometimes the best product isn't the one with the most technology ,it's the one that makes the problem disappear.
 I don't build technology just because I can.
 I build it because someone needs a better way.
 
