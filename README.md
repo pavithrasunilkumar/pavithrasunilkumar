@@ -46,9 +46,8 @@ Because sometimes the best product isn't the one with the most technology — it
 I don't build technology just because I can.
 I build it because someone needs a better way.
 
----
 
----
+> I believe the best tech is the one people don’t just use , but keep coming back to.
 
 ---
 ##  Tech Stack
