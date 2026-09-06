@@ -39,7 +39,7 @@ I care about who needs it, what decision it changes, and whether AI is even the 
 > I believe the best tech is the one people don’t just use , but keep coming back to.
 
 ---
-##  Tech Stack
+## Tech Stack
 
 <table>
 <tr>
@@ -55,11 +55,15 @@ I care about who needs it, what decision it changes, and whether AI is even the 
 <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>
 <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white"/>
 <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white"/>
+<img src="https://img.shields.io/badge/CrewAI-0F172A?style=flat-square"/>
 <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black"/>
 <img src="https://img.shields.io/badge/YOLOv8-111827?style=flat-square"/>
 <img src="https://img.shields.io/badge/Generative_AI-0F172A?style=flat-square"/>
 <img src="https://img.shields.io/badge/RAG-1E293B?style=flat-square"/>
 <img src="https://img.shields.io/badge/Agentic_AI-334155?style=flat-square"/>
+<img src="https://img.shields.io/badge/Multi--Agent_Systems-1E293B?style=flat-square"/>
+<img src="https://img.shields.io/badge/Prompt_Engineering-374151?style=flat-square"/>
+<img src="https://img.shields.io/badge/AI_Guardrails-4B5563?style=flat-square"/>
 
 </td>
 </tr>
@@ -69,11 +73,17 @@ I care about who needs it, what decision it changes, and whether AI is even the 
 <td>
 
 <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white"/>
 <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white"/>
 <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
+<img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white"/>
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/DynamoDB-4053D6?style=flat-square&logo=amazondynamodb&logoColor=white"/>
 <img src="https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white"/>
 <img src="https://img.shields.io/badge/REST_API-111827?style=flat-square"/>
+<img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white"/>
+<img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white"/>
 
 </td>
 </tr>
@@ -93,6 +103,9 @@ I care about who needs it, what decision it changes, and whether AI is even the 
 <img src="https://img.shields.io/badge/Statistics-374151?style=flat-square"/>
 <img src="https://img.shields.io/badge/Feature_Engineering-4B5563?style=flat-square"/>
 <img src="https://img.shields.io/badge/XGBoost-EC4D37?style=flat-square"/>
+<img src="https://img.shields.io/badge/Prophet-0072C6?style=flat-square"/>
+<img src="https://img.shields.io/badge/Time_Series_Forecasting-1F2937?style=flat-square"/>
+<img src="https://img.shields.io/badge/Anomaly_Detection-374151?style=flat-square"/>
 <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square"/>
 <img src="https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white"/>
 
