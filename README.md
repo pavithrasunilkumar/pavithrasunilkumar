@@ -19,33 +19,22 @@
 
 </br>
 
-**`About me`**
+`about me`
 <br>
-I like turning "there has to be a better way" into something people can actually use.
-I'm a Computer Science AI & Data Science Engineering student who enjoys finding real problems, understanding why they exist, and building technology around what people actually need.
+Final-year CS Engineer (AI & Data Science) who's shipped 6 platforms end-to-end , not because they were assigned, but because I noticed problems worth solving: job platforms optimized for volume over fit, interview prep disconnected from the actual JD, and financial analysis that could be accelerated with intelligent systems.
 
-**`what drives me`**
+
+`how i think`
 <br>
-For me, technology is the how — the interesting part is figuring out the why.
-I enjoy exploring AI, Data Science, Machine Learning, and Full Stack Development to solve business problems, simplify experiences, and turn messy ideas into useful products.
+I don't start with "what technology can I use?" — I start with "what's broken?"
 
-**`what i build`**
+- InHire hit Gemini rate limits → added a TF-IDF fallback to keep recommendations running
+- IntriVue's single-prompt setup hallucinated → replaced it with a 6-agent pipeline + eval layer, cutting hallucinations 35%
+- FinFlow needed forecasting, budgeting, and fraud detection → split it into specialized agents instead of one model doing everything
+
+`what matters`
 <br>
-Not just features. Solutions.
-I build intelligent, user-focused products  from recommendation engines to behavior-driven platforms , that use data, AI, and interaction to become smarter with every use.
-
-**`how i build`**
-<br>
-I obsess over the little things: Does it solve the problem? Is it intuitive? Can it scale? Would someone actually want to use it?
-Then I bring together clean code, solid engineering, and thoughtful design to make it happen.
-
-**`my approach`**
-<br>
-I start with a problem, question the obvious solution, break the complexity down, and build from there.
-Because sometimes the best product isn't the one with the most technology ,it's the one that makes the problem disappear.
-I don't build technology just because I can.
-I build it because someone needs a better way.
-
+I care about who needs it, what decision it changes, and whether AI is even the right tool for the job. I'm as interested in whether a system should exist as in whether it works ,because building the right thing is usually harder than building the thing right.
 
 > I believe the best tech is the one people don’t just use , but keep coming back to.
 
