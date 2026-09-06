@@ -17,23 +17,38 @@
 
 </div>
 
-**`About me`**  
-A Computer Science <kbd>AI & Data Science</kbd> Engineering student passionate about building creative, user-focused solutions powered by strong logic and clean design.
+</br>
 
-**`what drives me`**  
-I enjoy working where <kbd>AI</kbd>,  <kbd>Data Science</kbd> , <kbd>Machine Learning</kbd>, and <kbd>Full Stack Development</kbd> come together with strong <kbd>DSA</kbd> and <kbd>OOP</kbd> principles to create interactive, scalable, and intuitive user experiences.
+**`About me`**
+<br>
+I like turning "there has to be a better way" into something people can actually use.
+I'm a Computer Science AI & Data Science Engineering student who enjoys finding real problems, understanding why they exist, and building technology around what people actually need.
 
-**`what i build`**  
-I enjoy creating intelligent systems like <kbd>recommendation engines</kbd> and <kbd>behavior-driven platforms</kbd> that learn from user interaction.
+**`what drives me`**
+<br>
+For me, technology is the how — the interesting part is figuring out the why.
+I enjoy exploring AI, Data Science, Machine Learning, and Full Stack Development to solve business problems, simplify experiences, and turn messy ideas into useful products.
 
-**`how i build`**  
-I focus on writing clean, scalable, and efficient code that balances performance with simplicity.
+**`what i build`**
+<br>
+Not just features. Solutions.
+I build intelligent, user-focused products — from recommendation engines to behavior-driven platforms — that use data, AI, and interaction to become smarter with every use.
 
-**`my approach`**  
-I enjoy breaking systems down, understanding them deeply, and creating smarter, more creative solutions from scratch.
+**`how i build`**
+<br>
+I obsess over the little things: Does it solve the problem? Is it intuitive? Can it scale? Would someone actually want to use it?
+Then I bring together clean code, solid engineering, and thoughtful design to make it happen.
 
+**`my approach`**
+<br>
+I start with a problem, question the obvious solution, break the complexity down, and build from there.
+Because sometimes the best product isn't the one with the most technology — it's the one that makes the problem disappear.
+I don't build technology just because I can.
+I build it because someone needs a better way.
 
-> I believe the best tech is the one people don’t just use , but keep coming back to.
+---
+
+---
 
 ---
 ##  Tech Stack
