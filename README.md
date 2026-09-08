@@ -26,7 +26,7 @@ Final-year CS Engineer (AI & Data Science) who's shipped 6 platforms end-to-end 
 
 `how i think`
 <br>
-I don't start with "what technology can I use?" — I start with "what's broken?"
+I don't start with "what technology can I use?"  I start with "what's broken?"
 
 - InHire hit Gemini rate limits → added a TF-IDF fallback to keep recommendations running
 - IntriVue's single-prompt setup hallucinated → replaced it with a 6-agent pipeline + eval layer, cutting hallucinations 35%
