@@ -87,6 +87,18 @@ I care about who needs it, what decision it changes, and whether AI is even the 
 </tr>
 
 <tr>
+<td width="140"><sub><b>Databases</b></sub></td>
+<td>
+
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/DynamoDB-4053D6?style=flat-square&logo=amazondynamodb&logoColor=white"/>
+
+</td>
+</tr>
+
+<tr>
 <td width="140"><sub><b>Data Science / Analytics</b></sub></td>
 <td>
 
