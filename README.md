@@ -21,7 +21,7 @@
 
 `about me`
 <br>
-Final-year CS Engineer (AI & Data Science) who's shipped 6 platforms end-to-end , not because they were assigned, but because I noticed problems worth solving: job platforms optimized for volume over fit, interview prep disconnected from the actual JD, and financial analysis that could be accelerated with intelligent systems.
+Final-year CS Engineer (AI & Data Science) who's shipped 4 platforms end-to-end , not because they were assigned, but because I noticed problems worth solving: job platforms optimized for volume over fit, interview prep disconnected from the actual JD, and financial analysis that could be accelerated with intelligent systems.
 
 
 `how i think`
